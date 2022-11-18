@@ -1,0 +1,40 @@
+.centralizado {
+    text-align: center;
+}
+
+.left-aligned {
+    text-align: left;
+
+}
+
+.right-aligned {
+    text-align: right;
+}
+
+.underline {
+    text-decoration-line: underline;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.shadow {
+    text-shadow: 10px 10px rgba(87, 19, 19, 0.342);
+}

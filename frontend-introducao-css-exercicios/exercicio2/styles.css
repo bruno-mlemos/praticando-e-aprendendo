@@ -1,0 +1,32 @@
+* {
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+.linha {
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-right: 8px;
+}
+
+
+div {
+    width: 150px;
+    height: 150px;
+}
+
+
+
+
+.vermelho {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
